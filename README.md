@@ -1,35 +1,38 @@
 # Python & Django
 
 ### Why did you choose this subject?
-* We've both heard a lot about Python/Django and some companies in the area are still     using it, so we thought that it might be useful to learn it.
+* We've both heard a lot about Python/Django and some companies in the area are still using it, so we thought that it might be useful to learn it.
 
 ### How were you first made aware of it?
-* Speaking with different individuals in the cohort
+* We heard about it when we first started taking an interested into programming.
 
 ### What problem does it solve?
-* 
+* Python and Django solves many problems. Python is a scripting language that allows developers to use almost plain English when writing code. We believe that one of the main issues that Django solves is allowing users of the Python language to quickly create a full CRUD application with authentication.
 
 ### How does it solve the problem (conceptually)?
-*
+* Django has authentication built and amongst the backend languages and frameworks, we have used so far was the easiest to create CRUD functionality.
 
 ### Why does one use it?
-* 
+* Ease of use.
 
 ### What are the alternatives?
-* 
+* Ruby on Rails, Javascript/Node.Js
 
 ### What is it similar to, if anything?
-* 
+* It reminded us of Ruby on Rails.
+
 ### What is the history of this technology?
-*
+* Python provides constructs that enable clear programming on both small and large scales. Django's primary goal is to ease the creation of complex, database-driven websites. (https://en.wikipedia.org/wiki/Python_(programming_language), https://en.wikipedia.org/wiki/Django_(web_framework))
 
 ### Who built it and why?
-*
+* Python was written by Guido van Rossum in 1991 Django Larwence Journel-World 2005.
 
 ### Who is maintaining it?
-*
+* Django Software Foundation 
+* Python Software Foundation
+
 ### What is your opinion on the technology after having built something with it?
-*
+* Conceptually it is better than we thought and appears to be easier to use than other frameworks we have used.
 
 ### What are the biggest conceptual hurdles (if any) you encountered when researching this?
 * 
@@ -41,3 +44,7 @@
 
 ### What are 3 interview questions one might be asked about this technology?
 *
+
+### References Used 
+* Django https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
+* Python https://git.generalassemb.ly/ga-wdi-lessons/python
