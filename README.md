@@ -35,15 +35,19 @@
 * Conceptually it is better than we thought and appears to be easier to use than other frameworks we have used.
 
 ### What are the biggest conceptual hurdles (if any) you encountered when researching this?
-* 
+* A lot of things in Python were similar to Ruby. Using spaces instead of end was a little different, string interpulation (which we dind't get to use in our project) was also a little wonky. Django appeared to be a little too easy to get authenticaion and CRUD functionality.
 
 ### What resources do you recommend for interested students?
-*
-###What article or forum was most helpful to you in learning this?
-*
+* The sources that Ali slacked over was great.
+
+### What article or forum was most helpful to you in learning this?
+* (see References used below)
 
 ### What are 3 interview questions one might be asked about this technology?
-*
+1. What attracted you to the Python language?
+2. Can you show us how you would create the fizzbuzz app in python?
+3. If you could add anything to python or django, what would it be?
+
 
 ### References Used 
 * Django https://git.generalassemb.ly/ga-wdi-lessons/django-workshop
